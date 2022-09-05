@@ -23,4 +23,3 @@ Stickers was printed with DYMO LabelWriter 450. Thermal printing technology prom
 ![20210728_182311](https://user-images.githubusercontent.com/60731947/127742001-7822fe34-aaf4-4430-bf90-8577afe5ab3a.jpg)
 
 
-# WARNING: This is work-in-progress project. Everything here is subject to change
