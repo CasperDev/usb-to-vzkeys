@@ -1,7 +1,7 @@
 # usb-to-vzkeys
 
 Simple solution to connect USB keyboard to VZ 200/300 retro Computer family
-Module is based on STM32F411 Blue Pill and CD22M3494EZ IC (8x16 crosspoint matrix switch)
+Module is based on STM32F411 Black Pill and CD22M3494EZ IC (8x16 crosspoint matrix switch)
 
 
 ![20210728_182523](https://user-images.githubusercontent.com/60731947/127741569-66955d94-8b52-42df-a648-5a4f4433acb7.jpg)
